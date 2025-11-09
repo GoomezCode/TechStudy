@@ -31,7 +31,7 @@ O projeto está em sempre constante atualizações que está voltada as **Tarefa
 > ## Apresentação das Interfaces do Aluno:  
 > Adicionar os dados de um Aluno | Status de todos os dados
 > :--: | :--:  
-> <img src="TelaPrimaria.png"/> | <img src="TelaSegundaria.png"/>
+> <img src="src/main/java/com/mycompany/projectschoolinterface/IMG/TelaPrimaria.png"/> | <img src="src/main/java/com/mycompany/projectschoolinterface/IMG/TelaSegundaria.png"/>
 > 
 >***
 
