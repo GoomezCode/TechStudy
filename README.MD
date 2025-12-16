@@ -1,6 +1,6 @@
 > ---
 >
->## **TechStudy**
+># **TechStudy**
 >
 >### **Descrição:**
 >
